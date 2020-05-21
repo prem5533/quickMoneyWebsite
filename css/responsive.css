@@ -1,0 +1,183 @@
+@media screen and (min-width: 1400px) {}
+
+@media screen and (min-width: 1200px) {}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .uparrow {
+        right: 7px;
+    }
+    .corporate {
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .corporate {
+        width: 70%;
+    }
+    .benifit {
+        margin-bottom: 40px;
+    }
+    .logo {
+        padding: 0px;
+        width: 20%;
+    }
+    .main-nav {
+        float: right;
+        margin: 0px;
+    }
+    .main-nav {
+        padding: 0;
+    }
+    .faq .faq-heading h1 {
+        font-size: 36px;
+        text-align: left;
+        padding: 50px 30px;
+    }
+    .main-faq {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .question-blok ul:before {
+        display: none !important;
+    }
+    article.ans:before {
+        display: none !important;
+    }
+    .question-blok ul {
+        margin-left: 0px;
+    }
+    article.ans {
+        margin-left: 38px;
+        margin-right: 38px;
+    }
+    .about {
+        margin: 30px;
+    }
+    .block-t-c {
+        padding: 0 30px;
+    }
+    nav ul {
+    text-align: right;
+}
+}
+
+@media screen and (max-width: 767px) {
+    .logo {
+        padding: 20px 0;
+        margin-left: 10px;
+    }
+    .main-nav {
+        float: right;
+        margin: 12px 0;
+    }
+    .faq .faq-heading h1 {
+        font-size: 36px;
+        text-align: left;
+    }
+    .main-faq {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .question-blok ul:before {
+        display: none !important;
+    }
+    article.ans:before {
+        display: none !important;
+    }
+    .question-blok ul {
+        margin-left: 0px;
+    }
+    article.ans {
+        margin-left: 38px;
+        margin-right: 38px;
+    }
+    .about {
+        margin: 0 30px;
+    }
+    .block-t-c {
+        padding: 0 30px;
+    }
+    .faq .faq-heading h1 {
+        padding: 50px 30px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    nav ul {
+    text-align: right;
+}
+    .privacy-block {
+        padding: 30px 20px;
+    }
+    .benifit {
+        margin-bottom: 40px;
+    }
+    .corporate {
+        width: 100%;
+    }
+    .logo {
+        padding: 5px 0;
+        width: 33%;
+    }
+    .main-nav {
+        margin: 0px;
+    }
+    .main-nav {
+        padding: 0;
+    }
+    .faq-header {
+        padding: 0;
+    }
+    .faq .faq-heading h1 {
+        font-size: 24px;
+    }
+    .question-blok ul {
+        margin-left: 0;
+    }
+    .faq .faq-heading h1 {
+        font-size: 20px;
+    }
+    .ans-head {
+        font-size: 18px;
+    }
+    i.fa.fa-angle-up {
+        height: 25px;
+        width: 25px;
+    }
+    .uparrow {
+        line-height: 22px;
+        right: 7px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .main-nav {
+        margin: 0px;
+    }
+    .ans-head {
+        font-size: 15px;
+    }
+    .faq .faq-heading h1 {
+        font-size: 20px;
+        padding: 20px 27px;
+    }
+    .coman-heading h1 {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .privacy-block h1 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .logo {
+        padding: 7px 0;
+        width: 40%;
+    }
+    .coman-heading h1 {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+}
